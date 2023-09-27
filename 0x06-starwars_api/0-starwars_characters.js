@@ -1,4 +1,5 @@
 #!/usr/bin/node
+
 /*
 script that prints all characters of a Star Wars movie:
 The first argument is the Movie ID - example: 3 = “Return of the Jedi”
